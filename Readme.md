@@ -1,6 +1,6 @@
 # Business Landing Page &nbsp; ![badge](https://img.shields.io/badge/HTML%20and%20CSS-Project12-green) &nbsp; ![badge](https://img.shields.io/badge/-Responsive-orange)
 
-[![](https://img.shields.io/badge/Live-Link-blue)](https://business-empower-landingpage.netlify.app/)
+[![](https://img.shields.io/badge/Live-Link-blue)](https://project-12-alpha.vercel.app/)
 
 ## Skills acquired 👨‍💻
 - Learned about the object fit and object position property.
